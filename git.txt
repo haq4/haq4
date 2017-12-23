@@ -1,0 +1,19 @@
+git init
+
+git status
+
+git add git.txt //file name
+
+git add '*.txt'
+
+git commit -m 'initial commit'
+
+/*git config --global user.nhbd94@gmail.com*/
+
+git log
+
+git remote add origin https://github.com/try-git/try_git.git //gitLink
+
+git push -u origin master
+
+git pull origin master
